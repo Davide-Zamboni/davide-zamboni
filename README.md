@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Computer Science (Bachelor's degree)
+- 🔭 I’m currently a Software Engeneer @ Satispay
 - 🌱 I’m continuously learning
-- 📫 How to reach me: davide.zamboni_02@studenti.univr.it
+- 📫 How to reach me: davidezamboni01@gmail.com
 - ⚡ Fun fact: I have a farm
